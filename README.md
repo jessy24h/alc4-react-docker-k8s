@@ -1,68 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Google Africa Developer Scholarship Phase II
 
-## Available Scripts
+## What is the goal of the Challenge?
 
-In the project directory, you can run:
+To Deploy React Application using Docker and Google Cloud Platform
+Who can be a part of the challenge
+Only available to the Google Africa Developer Scholarship: Cloud Track Learners
 
-### `npm start`
+## How to start
+- Create a React App [Create React App](https://github.com/facebook/create-react-app)
+- Package your app into a Docker image
+- Run the container locally on your machine 
+- Upload the image to a registry (Docker Hub)
+- Create a container cluster (inside Kubernetes Engine in GCP)
+- Deploy your app to the cluster
+- Expose your app to the Internet
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Let the ALC program philosophy guide you.
+> Own your learning as individuals/groups.
+> Hold yourself accountable.
+> While completing the lessons, it will be awesome to unblock and support fellow learners on Slack.
+> Ask clear questions when stuck, either in groups or the general channels.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Share your project
+This will be an individual project but you can ask questions on your PLG slack group, the challenge will officially end 22nd of October 2019.
 
-### `npm test`
+		Next Steps on or before  23rd October 2019
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Share your project with your teammates with details of your project so that they can give comments and feedback.
